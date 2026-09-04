@@ -30,9 +30,11 @@ A platformer is a genre where the player controls a character jumping and climbi
 
 ## Puzzle
 
-<!-- Agregar descripción del género y link a Wikipedia -->
+Puzzle video games make up a broad genre of video games that emphasize puzzle solving. The types of puzzles can test problem-solving skills, including logic, pattern recognition, sequence solving, spatial recognition, and word completion. Many puzzle games involve a real-time element and require quick thinking, such as Tetris (1985) and Lemmings (1991).
 
-- Tetris
+[Wikipedia](https://en.wikipedia.org/wiki/Puzzle_video_game)
+
+- [Tetris](./puzzle/tetris.md)
 
 ## Sandbox
 
